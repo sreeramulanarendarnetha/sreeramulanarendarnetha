@@ -45,7 +45,13 @@ const narendar = {
 
 Data visualization exercises built with Jupyter/Python notebooks.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sreeramulanarendarnetha&repo=Datavisualization-Projects&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/sreeramulanarendarnetha/Datavisualization-Projects)
+<div align="center">
+
+<a href="https://github.com/sreeramulanarendarnetha/Datavisualization-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreeramulanarendarnetha&repo=Datavisualization-Projects&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 | Layer      | Technology              |
 |------------|--------------------------|
@@ -58,8 +64,13 @@ Data visualization exercises built with Jupyter/Python notebooks.
 #### 🏆 AI-Powered Sports Quiz Generator
 
 A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by combining a local vector database (ChromaDB) with live web search, using an LLM (OpenAI/Gemini) through a Streamlit interface.
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sreeramulanarendarnetha&repo=AI-Powered-Sports-Quiz-Generator&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/sreeramulanarendarnetha/AI-Powered-Sports-Quiz-Generator)
+<a href="https://github.com/sreeramulanarendarnetha/AI-Powered-Sports-Quiz-Generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreeramulanarendarnetha&repo=AI-Powered-Sports-Quiz-Generator&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 | Layer          | Technology              |
 |----------------|--------------------------|
@@ -98,7 +109,8 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&column=5"/>
+
 </div>
 
 ---

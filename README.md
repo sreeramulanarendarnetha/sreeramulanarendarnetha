@@ -110,18 +110,22 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/api?username=sreeramulanarendarnetha&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreeramulanarendarnetha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sreeramulanarendarnetha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramulanarendarnetha&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 ## 🔥 GitHub Streak

@@ -129,7 +129,7 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sreeramulanarendarnetha&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeramulanarendarnetha&theme=nord"/>
 
 </div>
 

@@ -91,15 +91,6 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 <br/>
 ![Skills](https://skillicons.dev/icons?i=py,streamlit)
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreeramulanarendarnetha&show_icons=true&theme=nord"/>
-
-</div>
 
 ---
 
@@ -107,7 +98,7 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&column=6"/>
 
 </div>
 

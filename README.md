@@ -45,13 +45,6 @@ const narendar = {
 
 Data visualization exercises built with Jupyter/Python notebooks.
 
-<div align="center">
-
-<a href="https://github.com/sreeramulanarendarnetha/Datavisualization-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreeramulanarendarnetha&repo=Datavisualization-Projects&theme=tokyonight"/>
-</a>
-
-</div>
 
 | Layer      | Technology              |
 |------------|--------------------------|
@@ -65,13 +58,7 @@ Data visualization exercises built with Jupyter/Python notebooks.
 
 A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by combining a local vector database (ChromaDB) with live web search, using an LLM (OpenAI/Gemini) through a Streamlit interface.
 
-<div align="center">
 
-<a href="https://github.com/sreeramulanarendarnetha/AI-Powered-Sports-Quiz-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreeramulanarendarnetha&repo=AI-Powered-Sports-Quiz-Generator&theme=tokyonight"/>
-</a>
-
-</div>
 | Layer          | Technology              |
 |----------------|--------------------------|
 | Language       | Python                  |

@@ -64,6 +64,7 @@ Data visualization exercises built with Jupyter/Python notebooks.
 #### 🏆 AI-Powered Sports Quiz Generator
 
 A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by combining a local vector database (ChromaDB) with live web search, using an LLM (OpenAI/Gemini) through a Streamlit interface.
+
 <div align="center">
 
 <a href="https://github.com/sreeramulanarendarnetha/AI-Powered-Sports-Quiz-Generator">
@@ -109,7 +110,7 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&column=5"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&column=5"/>
 
 </div>
 

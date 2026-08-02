@@ -113,7 +113,11 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&row=1&column=3"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Projects-Active-orange?style=for-the-badge&logo=github"/>
 
 </div>
 

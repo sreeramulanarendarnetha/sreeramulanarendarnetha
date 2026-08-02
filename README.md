@@ -47,7 +47,6 @@ Data visualization exercises built with Jupyter/Python notebooks.
 <div align="center">
 
 <a href="https://github.com/sreeramulanarendarnetha/Datavisualization-Projects">
-
 <img src="https://img.shields.io/badge/View%20Project-Datavisualization--Projects-black?style=for-the-badge&logo=github"/>
 
 </a>
@@ -111,6 +110,7 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&row=1&column=6"/>

@@ -106,21 +106,40 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 ---
 
-### 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=nord&no-frame=true&no-bg=true&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&margin-w=15&margin-h=15"/>
+
 </div>
 
----
 
-### 📊 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=sreeramulanarendarnetha&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sreeramulanarendarnetha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </div>
 
----
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sreeramulanarendarnetha&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreeramulanarendarnetha&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ### 🤝 Connect With Me
 

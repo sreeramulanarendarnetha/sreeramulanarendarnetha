@@ -108,12 +108,17 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 
 ---
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy-git-master-itsjavi.vercel.app/?username=sreeramulanarendarnetha&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/AI%20Projects-RAG%20%7C%20LLM-blue?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python"/>
 
 </div>
 

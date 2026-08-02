@@ -97,10 +97,7 @@ A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by comb
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreeramulanarendarnetha&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramulanarendarnetha&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=sreeramulanarendarnetha&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreeramulanarendarnetha&show_icons=true&theme=nord"/>
 
 </div>
 

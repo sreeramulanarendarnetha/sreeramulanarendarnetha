@@ -59,7 +59,7 @@ Data visualization exercises built with Jupyter/Python notebooks.
 A Retrieval-Augmented Generation (RAG) app that generates sports quizzes by combining a local vector database (ChromaDB) with live web search, using an LLM (OpenAI/Gemini) through a Streamlit interface.
 
 
-| Layer          | Technology              |
+| Layer          | Technology               |
 |----------------|--------------------------|
 | Language       | Python                  |
 | UI             | Streamlit               |
